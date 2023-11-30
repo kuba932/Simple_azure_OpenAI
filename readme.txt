@@ -1,1 +1,1 @@
-Prosta aplikacja sluzaca do generowania chatu Azure OpenAi
+Prosta aplikacja sluzaca do generowania chatu Azure OpenAI
